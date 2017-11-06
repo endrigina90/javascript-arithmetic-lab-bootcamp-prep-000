@@ -11,5 +11,5 @@ function divide(a,b) {
   return a/b
 }
 function inc(n) {
-  retunr a+=n 
+  retunr a+=n
 }
